@@ -4,7 +4,7 @@ export const dynamic = "force-dynamic";
 
 const timerConfig = {
   // Saturday, April 25 2026 at 10:00 AM Algeria time (UTC+1).
-  targetDateTime: "2026-04-25T10:00:00+01:00",
+  targetDateTime: "2026-04-25T11:00:00+01:00",
 };
 
 export default function Page() {
